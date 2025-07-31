@@ -1,7 +1,8 @@
 ![Header](./github-header-image.png)
 
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sajid!;+Competitive+Programmer+%7C+Web+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=1000&height=100&duration=8000&pause=2000&lines=Hi+There!+👋;I'm+Tahsan!;Competitive+Programmer+%26+Backend+Developer;" />
 </h1>
 
 <p align="center">
@@ -22,9 +23,11 @@
 
 ## **About Me**
 
-- 🌱 Currently mastering **Competitive Programming with C++**.  
-- 💻 Passionate about **MERN Stack Web Development**: React, Next.js, Node.js, MongoDB.  
-- 🎯 Goal: Become a Full Stack Developer and Competitive Programming Expert.  
+- 🌱 Currently mastering **Data Structure and Algorithms**.  
+- 💻 Passionate about **Competitive programmer**: C/C++.
+- 🔭 Confidential with Python.
+- ✍️ Professional at MySQL and Linux CLI.
+- 🎯 Goal: Become a back-end developer and Competitive Programming Expert.  
 - ⚡ Fun fact: *Coffee fuels my debugging sessions!*  
 
 <div align="center">
@@ -62,8 +65,8 @@
 ### **LeetCode Stats**
 
 <p align="center">
-  <a href="https://leetcode.com/SkillexSJ/">
-    <img src="https://leetcard.jacoblin.cool/SkillexSJ?theme=dark&font=Playfair%20Display&ext=heatmap" alt="LeetCode Stats" width="100%" />
+  <a href="https://leetcode.com/tahsanrafi14710/">
+    <img src="https://leetcard.jacoblin.cool/tahsanrafi14710?theme=dark&font=Playfair%20Display&ext=heatmap" alt="LeetCode Stats" width="100%" />
   </a>
 </p>
 
@@ -76,7 +79,7 @@
 ## **My Favorite Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,mongodb,git,github,vscode" />
 </p>
 
 <div align="center">
@@ -88,12 +91,12 @@
 ## **GitHub Stats & Streak**
 
 <p align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SkillexSJ&theme=react&border_radius=10" alt="Streak Stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=SkillexSJ&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats"/>
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tahsan-git&theme=react&border_radius=10" alt="Streak Stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=tahsan-git&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SkillexSJ&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tahsan-git&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </p>
 
 <div align="center">
@@ -118,10 +121,10 @@
 ## **Connect With Me**
 
 <p align="center">
-  <a href="https://www.facebook.com/SkillexSJ7" title="Facebook" target="_blank">
+  <a href="https://www.facebook.com/TahsanBillah" title="Facebook" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/SkillexSJ" title="Discord" target="_blank">
+  <a href="https://discord.com/users/tahsan14710" title="Discord" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
@@ -134,7 +137,7 @@
 
 ## 🏆 **GitHub Trophies**
 
-![](https://github-profile-trophy.vercel.app/?username=SkillexSJ&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tahsan-git&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
