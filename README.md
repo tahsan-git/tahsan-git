@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-imagee.png)
 
 
 <h1 align="center">
@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SkillexSJ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tahsan-git&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -39,19 +39,17 @@
 ## **Competitive Programming Profiles**
 
 <p align="center">
-  <a href="https://codeforces.com/profile/SkillexSJ" target="_blank">
+  <a href="https://codeforces.com/profile/tahsanrafi14710" target="_blank">
     <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" alt="Codeforces" width="70" />
   </a>
-  <a href="https://www.codechef.com/users/sajid7271" target="_blank">
+  <a href="https://www.codechef.com/users/tahsan14710" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef" width="70" />
   </a>
-  <a href="https://leetcode.com/u/SkillexSJ/" target="_blank">
+  <a href="https://leetcode.com/u/tahsanrafi14710/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="70" />
   </a>
-  <a href="https://atcoder.jp/users/Skillex" target="_blank">
-    <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" width="50" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/sajid7271_sk" target="_blank">
+  
+  <a href="https://www.hackerrank.com/profile/tahsanrafi14710" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="70" />
   </a>
 </p>
